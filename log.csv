@@ -1,0 +1,2 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;mapping_jobposting;requests;1566382814.420634;-0.4893779754638672;https://www.imdb.com/chart/top;https://www.imdb.com/chart/top;481436;200;True;
