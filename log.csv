@@ -456,3 +456,13 @@ id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code
 29;LOL;requests;1566458922.350677;-1.158473014831543;https://www.imdb.com//title/tt0021749/;https://www.imdb.com//title/tt0021749/;208219;200;True;
 30;LOL;requests;1566458924.1858828;-0.7159342765808105;https://www.imdb.com//title/tt0167260/;https://www.imdb.com//title/tt0167260/;234735;200;True;
 31;LOL;requests;1566458925.656471;-0.6020832061767578;https://www.imdb.com//title/tt0058946/;https://www.imdb.com//title/tt0058946/;211900;200;True;
+4;LOL;requests;1566465192.9385624;-0.6166810989379883;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+5;LOL;requests;1566465204.6492727;-0.2846240997314453;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+6;LOL;requests;1566465271.1681936;-0.2951810359954834;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+7;LOL;requests;1566465372.9638839;-0.278139591217041;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+8;ROFLMAO;requests;1566465554.7233195;-0.5054020881652832;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103483;200;True;
+9;ROFLMAO;requests;1566469461.6832433;-0.38197922706604004;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+10;ROFLMAO;requests;1566470873.6210153;-0.5736634731292725;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+11;ROFLMAO;requests;1566470993.41819;-0.304243803024292;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+12;ROFLMAO;requests;1566471016.5670867;-0.29590415954589844;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
+13;ROFLMAO;requests;1566471024.9594748;-0.545989990234375;https://www.imdb.com//title/tt0042876/ratings;https://www.imdb.com//title/tt0042876/ratings;103482;200;True;
