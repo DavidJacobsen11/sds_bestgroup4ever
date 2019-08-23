@@ -1,0 +1,16 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;LOL;requests;1566552030.686761;-1.0691461563110352;https://www.imdb.com//title/tt2119532/;https://www.imdb.com//title/tt2119532/;231337;200;True;
+1;LOL;requests;1566552032.4943051;-0.8955318927764893;https://www.imdb.com//title/tt0087544/;https://www.imdb.com//title/tt0087544/;221817;200;True;
+2;LOL;requests;1566552034.071687;-0.7174680233001709;https://www.imdb.com//title/tt0180093/;https://www.imdb.com//title/tt0180093/;223204;200;True;
+3;LOL;requests;1566552035.4770272;-0.6975958347320557;https://www.imdb.com//title/tt0090605/;https://www.imdb.com//title/tt0090605/;226187;200;True;
+4;LOL;requests;1566552036.869218;-0.8701179027557373;https://www.imdb.com//title/tt1280558/;https://www.imdb.com//title/tt1280558/;241720;200;True;
+5;LOL;requests;1566552038.4399219;-0.8303899765014648;https://www.imdb.com//title/tt0050976/;https://www.imdb.com//title/tt0050976/;213290;200;True;
+6;LOL;requests;1566552040.008689;-0.8865141868591309;https://www.imdb.com//title/tt0058946/;https://www.imdb.com//title/tt0058946/;212126;200;True;
+7;LOL;requests;1566552041.589731;-1.0883009433746338;https://www.imdb.com//title/tt0110357/;https://www.imdb.com//title/tt0110357/;231137;200;True;
+8;LOL;requests;1566552043.369358;-1.0051279067993164;https://www.imdb.com//title/tt0046268/;https://www.imdb.com//title/tt0046268/;210953;200;True;
+9;LOL;requests;1566552045.051727;-1.0498278141021729;https://www.imdb.com//title/tt4633694/;https://www.imdb.com//title/tt4633694/;227419;200;True;
+10;LOL;requests;1566552046.805595;-1.0437421798706055;https://www.imdb.com//title/tt2096673/;https://www.imdb.com//title/tt2096673/;231779;200;True;
+11;LOL;requests;1566552048.593481;-0.6294651031494141;https://www.imdb.com//title/tt0208092/;https://www.imdb.com//title/tt0208092/;221263;200;True;
+12;LOL;requests;1566552049.894378;-0.8123340606689453;https://www.imdb.com//title/tt3011894/;https://www.imdb.com//title/tt3011894/;221960;200;True;
+13;LOL;requests;1566552051.444125;-1.0312108993530273;https://www.imdb.com//title/tt0087884/;https://www.imdb.com//title/tt0087884/;216146;200;True;
+14;LOL;requests;1566552053.107852;-0.6855151653289795;https://www.imdb.com//title/tt0060196/;https://www.imdb.com//title/tt0060196/;221321;200;True;
