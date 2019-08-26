@@ -1,0 +1,14 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;LOL;requests;1566789483.2329578;-1.0920703411102295;https://www.imdb.com//title/tt1300854/;https://www.imdb.com//title/tt1300854/;240776;200;True;
+1;LOL;requests;1566789485.0214689;-0.3701472282409668;https://www.imdb.com//title/tt1298650/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3907;404;True;
+2;LOL;requests;1566789485.898815;-0.20941591262817383;https://www.imdb.com/https://www.imdb.com//title/tt0090605/;https://www.imdb.com/https://www.imdb.com//title/tt0090605/;3901;404;True;
+3;LOL;requests;1566789486.6152802;-0.41376495361328125;https://www.imdb.com//title/tt0381061/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3901;404;True;
+4;LOL;requests;1566789487.534013;-0.41746973991394043;https://www.imdb.com//title/tt0118715/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3881;404;True;
+5;LOL;requests;1566789488.458614;-0.7232890129089355;https://www.imdb.com//title/tt3501632/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3911;404;True;
+6;LOL;requests;1566789489.688394;-0.5161478519439697;https://www.imdb.com/https://www.imdb.com//title/tt1232829/;https://www.imdb.com/https://www.imdb.com//title/tt1232829/;3911;404;True;
+7;LOL;requests;1566789490.7068958;-0.41817331314086914;https://www.imdb.com//title/tt3659388/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3942;404;True;
+8;LOL;requests;1566789491.6308029;-0.31518101692199707;https://www.imdb.com//title/tt1446714/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3942;404;True;
+9;LOL;requests;1566789492.450898;-0.21070003509521484;https://www.imdb.com/https://www.imdb.com//title/tt1130884/;https://www.imdb.com/https://www.imdb.com//title/tt1130884/;3871;404;True;
+10;LOL;requests;1566789493.167047;-0.4172699451446533;https://www.imdb.com//title/tt1318514/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3907;404;True;
+11;LOL;requests;1566789494.0871491;-1.345587968826294;https://www.imdb.com//title/tt0162222/;https://www.imdb.com//title/tt0162222/;223883;200;True;
+12;LOL;requests;1566789496.12955;-0.32125020027160645;https://www.imdb.com//title/tt1504320/vote?v=X;k=;https://www.imdb.com/status/404?v=X&k=;3871;404;True;
