@@ -5535,3 +5535,5 @@ id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code
 5522;LOL;requests;1566816467.240795;-1.0685291290283203;https://www.imdb.com//title/tt0118665/;https://www.imdb.com//title/tt0118665/;216246;200;True;
 5523;LOL;requests;1566816468.982111;-0.5758719444274902;https://www.imdb.com//title/tt0120681/;https://www.imdb.com//title/tt0120681/;221372;200;True;
 5524;LOL;requests;1566816470.237887;-1.4273653030395508;https://www.imdb.com//title/tt0095776/;https://www.imdb.com//title/tt0095776/;218672;200;True;
+6;ROFLMAO;requests;1566898178.9052732;-0.3158400058746338;https://www.imdb.com//title/tt0218817/ratings;https://www.imdb.com//title/tt0218817/ratings;103222;200;True;
+7;ROFLMAO;requests;1566898214.440801;-0.28690409660339355;https://www.imdb.com//title/tt0218817/ratings;https://www.imdb.com//title/tt0218817/ratings;103222;200;True;
